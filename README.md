@@ -1,4 +1,4 @@
-= telegraf-exec-eagle =
+# telegraf-exec-eagle
 
 A [Telegraf](https://influxdata.com/time-series-platform/telegraf/) plugin to forward data from your electricity Smart Meter to InfluxDB, via a [Rainforest Eagle](https://rainforestautomation.com/rfa-z109-eagle/) energy gateway.
 
